@@ -1,0 +1,11 @@
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\bin\Debug\dnlib.pdb
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\bin\Debug\dnlib.xml
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\obj\Debug\DEObfuscar.csprojResolveAssemblyReference.cache
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\obj\Debug\DEObfuscar.Form1.resources
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\obj\Debug\DEObfuscar.csproj.GenerateResource.Cache
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\bin\Debug\DEObfuscar.exe.config
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\bin\Debug\DEObfuscar.exe
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\bin\Debug\DEObfuscar.pdb
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\obj\Debug\DEObfuscar.Properties.Resources.resources
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\obj\Debug\DEObfuscar.exe
+C:\Users\Xenocode\Documents\GitHub\DEObfuscar\PhoenixDeobfuscator\obj\Debug\DEObfuscar.pdb
